@@ -1,2 +1,2 @@
-# edd-rank
-An automatic system for submitting, testing and grading coding assignments.
+#edd-rank
+This is an automatic system for submitting, testing and grading coding assignments.
